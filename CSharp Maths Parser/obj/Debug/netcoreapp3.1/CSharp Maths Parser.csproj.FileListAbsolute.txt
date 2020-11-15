@@ -1,0 +1,12 @@
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\bin\Debug\netcoreapp3.1\CSharp Maths Parser.exe
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\bin\Debug\netcoreapp3.1\CSharp Maths Parser.deps.json
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\bin\Debug\netcoreapp3.1\CSharp Maths Parser.runtimeconfig.json
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\bin\Debug\netcoreapp3.1\CSharp Maths Parser.runtimeconfig.dev.json
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\bin\Debug\netcoreapp3.1\CSharp Maths Parser.dll
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\bin\Debug\netcoreapp3.1\CSharp Maths Parser.pdb
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\obj\Debug\netcoreapp3.1\CSharp Maths Parser.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\obj\Debug\netcoreapp3.1\CSharp Maths Parser.AssemblyInfo.cs
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\obj\Debug\netcoreapp3.1\CSharp Maths Parser.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\obj\Debug\netcoreapp3.1\CSharp Maths Parser.dll
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\obj\Debug\netcoreapp3.1\CSharp Maths Parser.pdb
+C:\Users\olive\source\repos\Dodecahedrane\Basic-Maths-Parser\CSharp Maths Parser\obj\Debug\netcoreapp3.1\CSharp Maths Parser.genruntimeconfig.cache
