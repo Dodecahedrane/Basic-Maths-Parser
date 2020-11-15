@@ -3,7 +3,7 @@ Basic maths parser in C#. It can do + - * / operations as well as correctly eval
 
 It will evaluate a divide by 0 to infinity
 
-###Features to add at some point:
+### Features to add at some point:
 
 - Powers
 - Roots
