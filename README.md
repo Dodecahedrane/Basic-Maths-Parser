@@ -3,6 +3,8 @@ Basic maths parser in C# I wrote to solve a coursework problem in Year 1 COMP100
 
 It will evaluate a divide by 0 to infinity
 
+First it converts the infix notation to reverse polish notation and thne uses the shunting yard algorithm to evaluate RPN expresions. Explination of shunting yard [here](https://brilliant.org/wiki/shunting-yard-algorithm/)
+
 ### Features to add at some point:
 
 - Powers
